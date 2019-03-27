@@ -39,5 +39,10 @@ def selective_tweet_shortener (string)
 end
 
 def shortened_tweet_truncator (string)
+  shortened = word_substituter(string)
+  if condition
 
+  else
+
+  end
 end
